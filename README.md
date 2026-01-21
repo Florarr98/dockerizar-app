@@ -14,4 +14,6 @@ Este repositorio contiene prácticas y proyectos orientados a DevOps, enfocados 
 Cada carpeta representa una práctica independiente, con su propia documentación y archivos de configuración.
 
 ## Objetivo
-Demostrar comprensión práctica de entornos containerizados, automatización y despliegues reproducibles, orientado a un rol DevOps Junior.
+Demostrar comprensión práctica de entornos containerizados, automatización y despliegues reproducibles, orientado a
+ un rol DevOps trainne/ Junior
+.
