@@ -17,3 +17,4 @@ Cada carpeta representa una práctica independiente, con su propia documentació
 Demostrar comprensión práctica de entornos containerizados, automatización y despliegues reproducibles, orientado a
  un rol DevOps trainne/ Junior
 .
+# trigger
