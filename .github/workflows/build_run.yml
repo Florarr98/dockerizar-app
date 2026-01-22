@@ -10,7 +10,7 @@ permissions:
   packages: write
 
 env:
-  IMAGE_NAME: ghcr.io/flor/portfolio
+  IMAGE_NAME: ghcr.io/${{ github.repository_owner }}/portfolio
   TAG: v1.0 
 
 jobs:
