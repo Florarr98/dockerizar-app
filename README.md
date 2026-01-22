@@ -15,5 +15,4 @@ Cada carpeta representa una práctica independiente, con su propia documentació
 
 ## Objetivo
 Demostrar comprensión práctica de entornos containerizados, automatización y despliegues reproducibles, orientado a
- un rol DevOps trainne/ Junior
-.
+ un rol DevOps trainne/ Junior. En este readme se veran reflejadas mis practicas para validar conocimientos.
