@@ -10,8 +10,8 @@ permissions:
   packages: write
 
 env:
-  IMAGE_NAME: ghcr.io/${{ github.repository_owner }}/portfolio
-  TAG: v1.0 
+  IMAGE_NAME: ghcr.io/florarr98/portfolio
+  TAG: v1.0
 
 jobs:
   build-test-push:
