@@ -16,10 +16,4 @@ Cada carpeta representa una práctica independiente, con su propia documentació
 ## Objetivo
 Demostrar comprensión práctica de entornos containerizados, automatización y despliegues reproducibles, orientado a
  un rol DevOps trainne/ Junior
-.
-# trigger
-# prueba_dos
-# prueba_tres
-# prueba_cuatro
-esta linea se agrego para hacer prueba de yml versionado
-esta linea se agrego para hacer prueba_dos de yml versionado
+
