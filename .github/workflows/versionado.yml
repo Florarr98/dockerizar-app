@@ -15,7 +15,7 @@ env:
   TAG: ${{ github.run_number }}
 
 jobs:
-  build-test-push:
+  versionado_tags:
     runs-on: ubuntu-latest
 
     steps:
